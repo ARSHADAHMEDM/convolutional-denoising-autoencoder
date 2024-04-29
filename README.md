@@ -136,7 +136,7 @@ autoencoder.summary()
 
 #### Model Summary
 
-![image](Screenshot 2024-04-28 211527.png)
+![alt text](image-3.png)
 
 
 ```py
@@ -189,12 +189,12 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](Screenshot 2024-04-28 211550.png)
+![alt text](image-1.png)
 
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![image](326050449-c4336712-f20e-49a7-89eb-5b187d4050d7.png)
+![alt text](image-2.png)
 
 
 ## RESULT
